@@ -79,6 +79,6 @@ Awesome list of `now.sh` deployments.
 
 * [favgen.now.sh](https://favgen.now.sh/) -> Random favicon generator.
 
-* [todos.now.sh](https://todos.now.sh/) -> Colaborative Todo-App (Realtime).
+* [todos.now.sh](https://todos.now.sh/) -> Collaborative Todo-App (Realtime).
 
 
